@@ -27,3 +27,13 @@ nav a {
   float: left;
   margin: 0 20px 0 0;
 }
+
+.headerSection2 {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.headerSection1 {
+  display: inline-block;
+  margin: 0 20px;
+}
