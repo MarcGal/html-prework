@@ -35,12 +35,23 @@ nav a {
 }
 
 input{
-  width: 700px;
-  height: 50px;
+  width: 1000px;
+  height: 30px;
+  margin: 10px 5px;
 }
 
 .npm-logo{
-  size: 30px;
+  float: left;
+  width: auto;
+  height: 30px;
+  margin: 10px 5px;
+}
+
+.bearlogo{
+  float: right;
+  width: auto;
+  height:30px;
+  margin: 10px 5px;
 }
 
 .headerSection2 {
