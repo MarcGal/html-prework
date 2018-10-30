@@ -44,14 +44,16 @@ input{
 }
 
 .headerSection2 {
-  display: inline-block;
-  width: 300px;
+  /* display: inline-block; */
+  width: 100%;
+  height: 500px;
   margin: 0 auto;
+  background-image: url(images/city-scape.svg);
 }
 
-.city {
+/* .city {
   display: inline-block;
   float: right;
   width:1200px;
-}
+} */
 
