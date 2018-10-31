@@ -9,8 +9,15 @@ nav {
 }
 
 nav a {
+  position: relative;
+  left: 10px;
   color: rgba(255,255,255,0.8);
   text-decoration: none;
+}
+
+.acronym{
+  position: relative;
+  left: 10px;
 }
 
 .top-links {
@@ -41,6 +48,14 @@ nav a {
   background-color: #225f80;
 }
 
+.section2text h1{
+  font-weight: 200;
+}
+
+.section2text p{
+  font-weight: 50;
+}
+
 input{
   width: 1000px;
   height: 30px;
@@ -68,6 +83,7 @@ input{
   height: 500px;
   margin: 0 auto;
   background-image: url(images/city-scape.svg);
+  background-size: cover;
 }
 
 .section2text{
@@ -91,17 +107,39 @@ input{
 
 /* ----------------------- SECTION 1 COLLABORATION ----------------- */
 
+#valueprop{
+  background-color: #273547;
+  height: 450px;
+}
+
 .collaboration{
   position:relative;
   left: 200px;
   top: 80px;
   width: auto;
-  height: 300px;
+  height: 260px;
 }
 
 .section1text{
   float: right;
   position:relative;
-  right: 200px;
+  right: 160px;
   top: 80px;
+  color: white;
+}
+
+.signOrgs{
+  position:relative;
+  left: 35px;
+  background-color: rgb(203, 56, 55);
+  color: white;
+  width: 120px;
+  height: 25px;
+  border-radius: 15px;
+}
+
+.learnMore{
+  position:relative;
+  left: 35px;
+  font-size: 12px;
 }
