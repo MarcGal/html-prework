@@ -31,13 +31,14 @@ nav a {
 .headerSection1 {
   display: inline-block;
   width: 100%;
-  background-color: red;
+  background-color: #225f80;
 }
 
 input{
   width: 1000px;
   height: 30px;
   margin: 10px 5px;
+  background-color: #1f526f;
 }
 
 .npm-logo{
