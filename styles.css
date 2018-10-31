@@ -1,3 +1,5 @@
+
+/* ----------------------- NAV BAR ----------------------- */
 nav {
   background-color: #C12127;
   color: rgba(255,255,255,0.8);
@@ -27,6 +29,11 @@ nav a {
   float: left;
   margin: 0 20px 0 0;
 }
+
+/* ----------------------- END OF NAV BAR ----------------------- */
+
+
+/* ----------------------- HEADER ------------------------------- */
 
 .headerSection1 {
   display: inline-block;
@@ -65,15 +72,36 @@ input{
 
 .section2text{
   position: relative;
-  left: 300px;
-  top: 100px;
+  left: 320px;
+  top: 130px;
   font-family: Times;
   color:white;
 }
 
-/* .city {
-  display: inline-block;
-  float: right;
-  width:1200px;
-} */
+.signup{
+  background-color: #F09233;
+  color: white;
+  width: 120px;
+  height: 25px;
+  border-radius: 15px;
+}
 
+/* ----------------------- END OF HEADER ------------------------- */
+
+
+/* ----------------------- SECTION 1 COLLABORATION ----------------- */
+
+.collaboration{
+  position:relative;
+  left: 200px;
+  top: 80px;
+  width: auto;
+  height: 300px;
+}
+
+.section1text{
+  float: right;
+  position:relative;
+  right: 200px;
+  top: 80px;
+}
