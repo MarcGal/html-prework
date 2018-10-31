@@ -63,6 +63,14 @@ input{
   background-image: url(images/city-scape.svg);
 }
 
+.section2text{
+  position: relative;
+  left: 300px;
+  top: 100px;
+  font-family: Times;
+  color:white;
+}
+
 /* .city {
   display: inline-block;
   float: right;
