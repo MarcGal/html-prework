@@ -48,6 +48,11 @@ nav a {
   background-color: #225f80;
 }
 
+.login{
+  text-decoration: none;
+  color: white;
+}
+
 .section2text h1{
   font-weight: 200;
 }
