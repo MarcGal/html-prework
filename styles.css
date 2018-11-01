@@ -163,11 +163,42 @@ input{
   top:170px;
 }
 
-.section2text button{
+.installbutton{
   background-color: rgb(49, 68, 88);
   color:white;
   width: 120px;
   height: 25px;
   border-radius: 15px;
+}
+
+/* ----------------------- SECTION 2 Description END----------------- */
+
+
+
+/* ----------------------- SECTION 3 COMPONENTS ----------------- */
+
+#components {
+  text-align: center;
+}
+
+
+#components h1 {
+  position: relative;
+  top: 30px;
+  font-weight: 100;
+}
+
+#components h2 {
+  position: relative;
+  top: 30px;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.section3elements{
+  display: inline-block;
+  position: relative;
+  top: 30px;
+  margin: 20px 65px;
 }
 
