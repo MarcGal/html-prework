@@ -143,3 +143,31 @@ input{
   left: 35px;
   font-size: 12px;
 }
+
+/* ----------------------- SECTION 1 COLLABORATION END ----------------- */
+
+
+/* ----------------------- SECTION 2 Description ----------------- */
+
+#description{
+  background-image: url(images/forklift.svg);
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.section2text{
+  position: relative;
+  left: 200px;
+  top:170px;
+}
+
+.section2text button{
+  background-color: rgb(49, 68, 88);
+  color:white;
+  width: 120px;
+  height: 25px;
+  border-radius: 15px;
+}
+
